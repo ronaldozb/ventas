@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("No te canses, sigue adelante porque la victoria que te espera es GRANDE");
         }
     }
 }
