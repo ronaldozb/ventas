@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tarea_2
+namespace tarea_2.Modelos
 {
     public class clientes
     {

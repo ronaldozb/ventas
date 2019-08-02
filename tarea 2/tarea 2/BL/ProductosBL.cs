@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tarea_2
+namespace tarea_2.BL
 {
-    public class ciudades
+    class ProductosBL
     {
-        public int Id { get; set; }
-        public string Descripcion { get; set; }
-       
     }
 }
