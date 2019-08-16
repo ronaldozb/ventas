@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\bin\Debug\Tarea Herencia.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\bin\Debug\Tarea Herencia.exe
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\bin\Debug\Tarea Herencia.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea_Herencia.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea_Herencia.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.exe
+c:\users\dell\documents\visual studio 2015\Projects\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.pdb
+C:\Users\Dell\Documents\Nueva carpeta (3)\Tarea Herencia\Tarea Herencia\bin\Debug\Tarea Herencia.exe.config
+C:\Users\Dell\Documents\Nueva carpeta (3)\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.exe
+C:\Users\Dell\Documents\Nueva carpeta (3)\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.pdb
+C:\Users\Dell\Documents\Tarea Herencia\Tarea Herencia\bin\Debug\Tarea Herencia.exe.config
+C:\Users\Dell\Documents\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.exe
+C:\Users\Dell\Documents\Tarea Herencia\Tarea Herencia\obj\Debug\Tarea Herencia.pdb
