@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\bin\Debug\Login Proyecto.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\bin\Debug\Login Proyecto.exe
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\bin\Debug\Login Proyecto.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login Proyecto.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login_Proyecto.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login_Proyecto.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login Proyecto.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login Proyecto.exe
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login Proyecto.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login_Proyecto.Menu.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login_Proyecto.checkIn.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login_Proyecto.CancelarReservacion.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Login Proyecto\Login Proyecto\obj\Debug\Login_Proyecto.GenerarFactura.resources
